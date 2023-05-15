@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡Join Channel⚡", url='https://telegram.me/ExtraBotsUpdates')
+            InlineKeyboardButton(text="⚡How to download ⚡", url='https://telegram.me/ExtraBotsUpdates')
         ]
     )
 
